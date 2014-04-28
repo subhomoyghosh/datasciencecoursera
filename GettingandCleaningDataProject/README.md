@@ -4,7 +4,7 @@
 * run_analysis.R
   * [Download data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "Human+Activity+Recognition+Using+Smartphones")
   * Extract the data inside of data folder in working directory
-  * [execute R script] ()
+  * [execute R script] (https://github.com/subhomoyghosh/datasciencecoursera/blob/master/GettingandCleaningDataProject/run_analysis.R)
    * Get data, prepare directories etc
    * Load test,training, activities name and feature level files
    * Use descriptive activity names to name the recoded activities in the data set
