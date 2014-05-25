@@ -1,7 +1,7 @@
 ## Peer assessment Getting and Cleaning Data Project (Coursera course)
    * Present goal of the project is to summarize type of activity a person is engaged in: e.g., sitting, walking, etc, based on motion sensor signals obtained from a smartphone. Experimental data were collected from 30 subjects engaged in 6 possible activities. Sensor signals were processed and tabulated through 561 features. 70% of the data were assigned to the training set and the remainder for test set
 
-### _OVERALL LAYOUT_
+### _Overall layout_
  
 #### Input Data 
     * Task is to extract features containing 'mean()' or 'std()' in their descriptive activity strings from the training and testing sets; combine the extracted information across the two datasets, and create a new dataset with the average of each of the extracted features, by subject and activity
@@ -15,7 +15,7 @@
     * The script 'Run Analysis.R' produces a tidy motion data collected from smartphones
     * Logical flow of the script is divided into chunks as: 0.a->0.b->3->4->1->2->5
 
-### _VARIABLES_
+### _Variables_
 
 #### directory paths
     * wd: path for local directory
