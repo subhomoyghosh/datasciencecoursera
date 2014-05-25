@@ -47,9 +47,9 @@
 
 ### _Functions used_
     * readAssign (1:8,fileNames,varNames) (See chunk 0.b)
-     _This_ is a function to efficiently read all the relevant files. This is used through sapply() command to load all files at one go!
+     This is a function to efficiently read all the relevant files. This is used through sapply() command to load all files at one go!
     * gsubfn (patternMatch,patternReplace,colnames(DataTrim)) (See chunk 2.)
-     _This_ is a gsub extension function used to replace and rename default descriptive feature names into appropriate  self-explanatory feature names
+     This is a gsub extension function used to replace and rename default descriptive feature names into appropriate  self-explanatory feature names
     * DataTrim %.% group_by(subject,activity) %.% summarise_each(funs(mean)) (See chunk 5.)
-     _This_ dplyr styling has been used to summarize the Data
+     This dplyr styling has been used to summarize the Data
 
